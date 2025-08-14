@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Enter your pin :"
-read PIN
+read -s PIN
 echo "Your pin is: $PIN"
