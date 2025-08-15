@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo -e "\e[31mBhargava \e[0m"
+echo -e "\e[31mBhargava\e[0m"
 echo -e "Bhargava"
